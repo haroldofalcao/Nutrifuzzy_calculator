@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python teste_correcoes.py:*)",
+      "Bash(python teste_erro_usuario.py:*)",
+      "Bash(python teste_modos_albumina.py:*)",
+      "Bash(python calculadora_desktop_albumina_opcional.py:*)"
+    ]
+  }
+}
